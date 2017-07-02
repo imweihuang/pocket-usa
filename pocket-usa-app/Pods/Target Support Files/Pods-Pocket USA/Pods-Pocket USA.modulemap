@@ -1,0 +1,6 @@
+framework module Pods_Pocket_USA {
+  umbrella header "Pods-Pocket USA-umbrella.h"
+
+  export *
+  module * { export * }
+}
